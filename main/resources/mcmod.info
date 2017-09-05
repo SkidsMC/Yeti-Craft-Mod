@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sycm",
+  "name": "Yeti Craft Mod",
+  "description": "Official Yeti Craft Mod!",
+  "version": "{1.0}",
+  "mcversion": "{1.11.2}",
+  "url": "https://www.youtube.com/channel/UCv7jhxP5LG8HZDqQIIidorQ?view_as=subscriber",
+  "updateUrl": "",
+  "authorList": ["SkidsMC"],
+  "credits": "SkidsMC",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
